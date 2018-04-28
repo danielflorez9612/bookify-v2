@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SegundoProyectoMobiles</string>
+    <string name="book_default_title">defaultTitle</string>
+    <string name="book_default_content">defaultContent</string>
+</resources>
